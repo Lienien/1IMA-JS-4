@@ -13,3 +13,11 @@ while (correct) {
         correct = false
     }
 }
+
+for (let i = 0; i <= 9; i++) {
+   for (let k = 0; k < 10; k++) {
+    document.write(k+"  ")
+    }
+    document.write("<br>")
+
+}
